@@ -1,0 +1,13 @@
+VARIABLE: una variable es un elemento que se usa para guardar un valor o información determinadas y luego "llamarlo". Por ejemplo: si yo escribo el texto "cuántos electricistas hacen falta para cambiar una lamparita? ninguno, la podés cambiar vos mismo" y lo declaro una variable de nombre "chistemalo". Entonces, al llamar la variable "chistemalo", no voy a necesitar escribir todo eso de nuevo.
+
+STRING: Una string es una cadena ordenada de caracteres, expresada y almacenada entre comillas. Por ejemplo, tanto estas oraciones "cuántos electricistas hacen falta para cambiar una lamparita? ninguno, la podés cambiar vos mismo", como "puedoescribir12334cualquiercosa239324loqueimportaes0129quelascomillasMeLoDejanTodoJunto! :)" son casos de strings.
+
+FUNCIONES:
+Las funciones son procedimientos que arrojan siempre un resultado y se pueden almacenar y luego invocar para que hagan algo que se necesita. Básicamente, toma determinada información de "entrada" y retorna una información de "salida".
+Esa información de entrada que le damos a la función, se llama "argumento" y pueden ser uno solo o muchos elementos.
+Lo que ese o esos argumentos determinados generen en nuestra función como salida, van a ser el "return". Una función siempre da un return y eso es parte de su definición.
+
+DECLARACIONES IF: Las declaraciones "if" nos permiten que determinada entrada nos retorne una salida específica en caso que esa entrada cumpla una condición. Supongamos que escribimos una función que declara si me tengo que duchar según mi condición de higiene. Mis argumentos de entrada pueden ser que "estoy sucio", y entonces me manda a ducharme y si "estoy limpio", no hace falta.
+
+VALORES BOOLEANOS: son valores de sólo dos posibilidades distintas que se excluyen mutuamente, pudiendo resultar como "True" ("sí" o "verdero") o "False" ("No" o "falso") 
+
