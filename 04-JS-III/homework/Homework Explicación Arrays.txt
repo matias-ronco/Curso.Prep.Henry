@@ -1,0 +1,1 @@
+Los arrays son listas de elementos ordenados por un valor de índice que nos permite identificarlos y manipularnos de manera organizada. 

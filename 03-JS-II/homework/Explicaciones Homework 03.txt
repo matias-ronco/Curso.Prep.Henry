@@ -1,0 +1,7 @@
+for: 'for' es un tipo de statement.
+
+&&:Éste es el operador lógico AND. El mismo evalúa dos expresiones y devuelve TRUE sólo si ambas son TRUE. Si ambas son FALSE o una de ellas es FALSE y la otra TRUE. devolverá FALSE.
+
+||:Éste es el operador lógico OR. El mismo evalúa dos expresiones, devolviendo TRUE si cualquiera de las dos expresiones (o ambas) son TRUE. En caso de que ambas sean FALSE, devolverá FALSE.
+ 
+!: Éste es el operador lógico NOT. El mismo invierte el valor booleano de la expresión sobre la que actue. Es decir, si la expresión es TRUE, el operador NOT la volverá FALSE y viceversa.

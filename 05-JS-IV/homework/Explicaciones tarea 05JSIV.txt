@@ -1,0 +1,7 @@
+Todo es un objeto en javaescrí. Pero no flashiemos, vamos más lerdo:
+Un objeto es una colección de propiedades organizadas en pares key-value. O clave y valor.
+O sea, los arrays (que son objetos también, porque todo es un objeto en javaescrí, pero vayamos más lerdo) organizan los valores según un índice, mientas que los objetos lo hacen según claves. Si esto, no se entiende, andá a sentarte a upita del de Mala Fama y que te lo explique él.
+Las propiedades son los valores infinitos que se pueden almacenar en ese objeto, que para eso existe.
+Los métodos son funciones incorporadas a los objetos. Cuando yo pongo una función como valor adentro de un objeto, esa función se vuelve un método. 
+Los bucles for in no los entiendo ni por pija, porque ni por pija están debidamente explicados en el texto del archivo .MD y en el video ni se mosquea Traliche en mencionarlos. Una cagada, ahora lo leemos en la documentación de Mozilla. Kevasé!
+Y con respecto a la notación de puntos y la notación de corchetes, la cosa es sencilla: la notación de puntos está buena, la de corchetes no. Lo único importante de entender acá es que no se entiende por qué alguien usaría la notación de corchetes. 
