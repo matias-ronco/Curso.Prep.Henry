@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+h1 {
+    color:khaki;
+ }
+ img {
+     width: 500px;
+     height: 300px;
+ }
+ #thirdDiv {
+     heigth:200px;
+     width:250px;
+     background-color:greenyellow;
+     padding: 50px;
+     border: 50px;border-style: groove;border-color: plum;
+ }
+
+ #spanId {
+     font-size: 18px;
+     margin: 50px;
+     color: powderblue;
+ }

@@ -1,0 +1,42 @@
+@charset "UTF-8";
+body {
+    background-color:yellow;
+}
+h1 {
+    display: inline;
+    color:gold;
+    background-color: grey;
+    border-style: dotted;
+    border-color: rgb(112, 0, 107);
+    font-size: 70px;
+ }
+ img {
+     width: 500px;
+     height: 300px;
+ }
+ #thirdDiv {
+     heigth:200px;
+     width:600px;
+     background-color:greenyellow;
+     margin-top: 30px;
+     padding: 20px;
+     border: 40px;border-style: groove;border-color: plum;
+     
+ }
+
+ #spanId {
+     font-size: 18px;
+     margin: 50px;
+     color: rgb(231, 248, 250);
+     background-color: powderblue;
+ }
+
+ #cuco {
+     width: 300px;
+     border: darkorchid;
+     background-color: goldenrod;
+     margin-top: 30px;
+     padding: 20px;
+     border: 40px;border-style:ridge;border-color:green;
+    
+ }
